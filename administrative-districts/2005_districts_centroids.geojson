@@ -1,0 +1,34 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 1, "ID_2": 1, "GOVERNORAT": "An Nabatiyah", "DISTRICT": "Bent Jbayl" }, "geometry": { "type": "Point", "coordinates": [ 35.404306032006232, 33.147600048367103 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 1, "ID_2": 4, "GOVERNORAT": "An Nabatiyah", "DISTRICT": "Nabatiyeh" }, "geometry": { "type": "Point", "coordinates": [ 35.449721978327958, 33.385071075334174 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 2, "ID_2": 53, "GOVERNORAT": "Beirut", "DISTRICT": "Beirut-three" }, "geometry": { "type": "Point", "coordinates": [ 35.487881703144879, 33.886032338628873 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 3, "ID_2": 10, "GOVERNORAT": "Beqaa", "DISTRICT": "Zahleh" }, "geometry": { "type": "Point", "coordinates": [ 35.940767403698182, 33.814611663904302 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 4, "ID_2": 11, "GOVERNORAT": "Mount Lebanon", "DISTRICT": "Aley" }, "geometry": { "type": "Point", "coordinates": [ 35.612387486702417, 33.7715156126051 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 4, "ID_2": 12, "GOVERNORAT": "Mount Lebanon", "DISTRICT": "Baabda" }, "geometry": { "type": "Point", "coordinates": [ 35.671063520579501, 33.84286992169406 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 4, "ID_2": 13, "GOVERNORAT": "Mount Lebanon", "DISTRICT": "Chouf" }, "geometry": { "type": "Point", "coordinates": [ 35.563438161385868, 33.653603001088314 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 4, "ID_2": 14, "GOVERNORAT": "Mount Lebanon", "DISTRICT": "Jbayl" }, "geometry": { "type": "Point", "coordinates": [ 35.813284817449251, 34.126892694583397 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 4, "ID_2": 15, "GOVERNORAT": "Mount Lebanon", "DISTRICT": "Kesrouan" }, "geometry": { "type": "Point", "coordinates": [ 35.787893114488895, 34.012386088330729 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 4, "ID_2": 16, "GOVERNORAT": "Mount Lebanon", "DISTRICT": "Matn" }, "geometry": { "type": "Point", "coordinates": [ 35.709177634809365, 33.911588872493532 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 5, "ID_2": 17, "GOVERNORAT": "North Lebanon", "DISTRICT": "Akkar" }, "geometry": { "type": "Point", "coordinates": [ 36.186090163679381, 34.551094586506309 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 5, "ID_2": 18, "GOVERNORAT": "North Lebanon", "DISTRICT": "Batroun" }, "geometry": { "type": "Point", "coordinates": [ 35.819258703248721, 34.223731367023404 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 5, "ID_2": 19, "GOVERNORAT": "North Lebanon", "DISTRICT": "Bcharreh" }, "geometry": { "type": "Point", "coordinates": [ 35.98141477299707, 34.24526461404497 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 5, "ID_2": 20, "GOVERNORAT": "North Lebanon", "DISTRICT": "Koura" }, "geometry": { "type": "Point", "coordinates": [ 35.802446190252986, 34.327893537901637 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 5, "ID_2": 212, "GOVERNORAT": "North Lebanon", "DISTRICT": "Danniyeh" }, "geometry": { "type": "Point", "coordinates": [ 36.074139418503371, 34.368600396393283 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 5, "ID_2": 22, "GOVERNORAT": "North Lebanon", "DISTRICT": "Tripoli" }, "geometry": { "type": "Point", "coordinates": [ 35.85488680202662, 34.437038655563093 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 6, "ID_2": 24, "GOVERNORAT": "South Lebanon", "DISTRICT": "Jezzine" }, "geometry": { "type": "Point", "coordinates": [ 35.555434845836665, 33.492962557693772 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 6, "ID_2": 251, "GOVERNORAT": "South Lebanon", "DISTRICT": "Saida" }, "geometry": { "type": "Point", "coordinates": [ 35.386320512365579, 33.556581154614015 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 6, "ID_2": 26, "GOVERNORAT": "South Lebanon", "DISTRICT": "Sour" }, "geometry": { "type": "Point", "coordinates": [ 35.276230038059069, 33.212385270516407 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 6, "ID_2": 252, "GOVERNORAT": "South Lebanon", "DISTRICT": "Zahrany" }, "geometry": { "type": "Point", "coordinates": [ 35.354977384722083, 33.444751627503436 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 2, "ID_2": 52, "GOVERNORAT": "Beirut", "DISTRICT": "Beirut-two" }, "geometry": { "type": "Point", "coordinates": [ 35.512142632298108, 33.899765036260973 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 2, "ID_2": 51, "GOVERNORAT": "Beirut", "DISTRICT": "Beirut-one" }, "geometry": { "type": "Point", "coordinates": [ 35.518183261775413, 33.885602351937848 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 3, "ID_2": 6, "GOVERNORAT": "Beqaa", "DISTRICT": "Baalbek-Hermel" }, "geometry": { "type": "Point", "coordinates": [ 36.286456098049563, 34.158038638045483 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 3, "ID_2": 7, "GOVERNORAT": "Beqaa", "DISTRICT": "WestBekaa-Rachaya" }, "geometry": { "type": "Point", "coordinates": [ 35.827118888406275, 33.572440024126429 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 1, "ID_2": 2, "GOVERNORAT": "An Nabatiyah", "DISTRICT": "Marjayoun-Hasbaya" }, "geometry": { "type": "Point", "coordinates": [ 35.624380073953198, 33.314601663854951 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 5, "ID_2": 211, "GOVERNORAT": "North Lebanon", "DISTRICT": "Miniyeh" }, "geometry": { "type": "Point", "coordinates": [ 35.943656245329251, 34.47330860873388 ] } },
+{ "type": "Feature", "properties": { "ISO": "LBN", "NAME_0": "Lebanon", "ID_1": 5, "ID_2": 23, "GOVERNORAT": "North Lebanon", "DISTRICT": "Zgharta" }, "geometry": { "type": "Point", "coordinates": [ 35.9284146245937, 34.353424738913645 ] } }
+]
+}
